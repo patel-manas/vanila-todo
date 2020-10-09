@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+}
+
+.todo_item {
+  display: flex;
+}
+
+.todo_item_desc {
+  margin-left: 10px;
+}
